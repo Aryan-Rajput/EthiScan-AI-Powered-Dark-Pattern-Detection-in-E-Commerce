@@ -28,5 +28,3 @@ Here are some images showcasing the EthiScan project:
 ![EthiScan Mobile App](7.PNG)
 
 Feel free to explore the visuals to better understand the functionalities and design of EthiScan.
-
-📄 **[Project Documentation](Attach relevant link if available)**  
