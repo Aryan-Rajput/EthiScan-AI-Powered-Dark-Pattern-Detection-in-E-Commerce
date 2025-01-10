@@ -22,7 +22,7 @@ EthiScan empowers users to make informed online shopping decisions by exposing m
 ## 🖼️ Project Images
 Here are some images showcasing the EthiScan project:
 
-![EthiScan Admin Panel](68.png)
+![EthiScan](68.PNG)
 ![EthiScan Browser Extension](3.PNG)
 ![EthiScan Mobile App](6.PNG)
 ![EthiScan Mobile App](7.PNG)
