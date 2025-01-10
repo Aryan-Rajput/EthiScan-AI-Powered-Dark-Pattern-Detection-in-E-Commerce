@@ -19,5 +19,14 @@ EthiScan is an advanced solution designed to identify and mitigate deceptive pra
 ## 🎯 Impact
 EthiScan empowers users to make informed online shopping decisions by exposing manipulative tactics used by e-commerce platforms. This project bridges the gap between **consumer awareness** and **automated fraud detection**.
 
+## 🖼️ Project Images
+Here are some images showcasing the EthiScan project:
+
+![EthiScan Admin Panel](68.png)
+![EthiScan Browser Extension](3.PNG)
+![EthiScan Mobile App](6.PNG)
+![EthiScan Mobile App](7.PNG)
+
+Feel free to explore the visuals to better understand the functionalities and design of EthiScan.
 
 📄 **[Project Documentation](Attach relevant link if available)**  
